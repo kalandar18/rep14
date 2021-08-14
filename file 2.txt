@@ -1,0 +1,16 @@
+<user username="training" password="dadadada" roles="manager-script,manager-status,manager-gui"/>
+
+
+
+
+
+13.232.198.166:8080
+
+
+
+
+
+
+git remote add origin https://github.com/kalandar18/repaug13.git
+git branch -M main
+git push -u origin main
